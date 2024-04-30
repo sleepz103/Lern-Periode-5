@@ -2,6 +2,9 @@
 
 23.4 bis 25.6.2024
 
+## Link to Website Repository
+https://github.com/sleepz103/Web1site
+
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
