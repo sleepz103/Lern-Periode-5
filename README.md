@@ -22,10 +22,19 @@ Da unsere nächste Modul Websiten betrifft, werde ich für dieses Lernperiode ü
 
 ## 30.04.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich konzentriert gearbeitet. Zuerst habe ich grobplanung geschrieben. Danach habe ich ein neues Repo erstellt, dort wird die Website gebaut. Ich habe mit Hilfe eines Video aus letzer Lernperiode gelernt, wie man html und css Dateien schreibt und mit einander verbindet. Am Ende des Unterricht habe ich es noch geschafft, diese Website online zu bringen. (57)
 
 ## 07.05.2024
+
+- [ ] Ein Hintegrundfoto von ein Apfel einbauen
+- [ ] Ein neues Datei erstellen, und den mit Hyperlink verbinden
+- [ ] Die Hyperlinks zeigen html am ende nicht
+- [ ] In neuer Datei wird ein gif hinzugefügt
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+## 14.05.2024
+
+## 21.05.2024
