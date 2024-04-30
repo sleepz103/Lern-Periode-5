@@ -26,7 +26,7 @@ Da unsere nächste Modul Websiten betrifft, werde ich für dieses Lernperiode ü
 
 ## 07.05.2024
 
-- [ ] Ich springe
+- [ ] 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
