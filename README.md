@@ -3,6 +3,7 @@
 23.4 bis 25.6.2024
 
 ## Link to Website Repository
+
 https://github.com/sleepz103/Web1site
 
 ## Grob-Planung
@@ -29,15 +30,29 @@ Heute habe ich konzentriert gearbeitet. Zuerst habe ich grobplanung geschrieben.
 
 ## 07.05.2024
 
-- [ ] Ein Hintegrundfoto von ein Apfel einbauen
-- [ ] Ein neues Datei erstellen, und den mit Hyperlink verbinden
+- [x] Ein Hintegrundfoto von ein Apfel einbauen
+- [x] Ein neues Datei erstellen, und diese mit Hyperlink verbinden
 - [ ] Die Hyperlinks zeigen html am ende nicht
-- [ ] In neuer Datei wird ein gif hinzugefügt
+- [x] In neuer Datei wird ein gif hinzugefügt
 
-✍️ Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+Heute habe ich viel ausprobiert. Ich habe mir ein Bild von Apfel geholt und dies eingefügt. Danach habe ich eine zweite Datei verbunden und dort ein GIF eingefügt. Die Syntaxen habe ich aus Internet gelernt, vorallem mit www.w3schools.com. Eine Lösung habe ich gefunden, die hilft, .html zu verstekcen, funktionierte aber nicht. Gegen Ende habe ich noch Dateien sortiert. Dafür musste ich auch alle relative Links korrigieren. Und am Schluss habe ich dritte Datei für Lizenzen erstellt. (76)
 
 ## 14.05.2024
+
+- [ ] Ein Navigation Bar auf linke seite der Seite erstellen 
+
+- [ ] Eine Font aus Google Fonts holen können
+
+- [ ] Ein Audio Player einfügen und eine CC Musik finden
+
+- [ ] Drücken auf Titel und oder Bild bringt zu anderen HTML dokument (wichtig für später)
+
+
+
+Hilfreiche Link: [How To Create a Blog Layout](https://www.w3schools.com/howto/howto_css_blog_layout.asp)
+
+
 
 ## 21.05.2024
