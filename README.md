@@ -35,24 +35,32 @@ Heute habe ich konzentriert gearbeitet. Zuerst habe ich grobplanung geschrieben.
 - [ ] Die Hyperlinks zeigen html am ende nicht
 - [x] In neuer Datei wird ein gif hinzugefügt
 
-
-
 Heute habe ich viel ausprobiert. Ich habe mir ein Bild von Apfel geholt und dies eingefügt. Danach habe ich eine zweite Datei verbunden und dort ein GIF eingefügt. Die Syntaxen habe ich aus Internet gelernt, vorallem mit www.w3schools.com. Eine Lösung habe ich gefunden, die hilft, .html zu verstekcen, funktionierte aber nicht. Gegen Ende habe ich noch Dateien sortiert. Dafür musste ich auch alle relative Links korrigieren. Und am Schluss habe ich dritte Datei für Lizenzen erstellt. (76)
 
 ## 14.05.2024
 
-- [ ] Ein Navigation Bar auf linke seite der Seite erstellen 
+- [x] Ein Navigation Bar auf linke seite der Seite erstellen 
 
-- [ ] Eine Font aus Google Fonts holen können
+- [x] Eine Font aus Google Fonts holen können
 
-- [ ] Ein Audio Player einfügen und eine CC Musik finden
+- [x] Ein Audio Player einfügen und eine CC Musik finden
 
 - [ ] Drücken auf Titel und oder Bild bringt zu anderen HTML dokument (wichtig für später)
 
 
 
+Heute habe ich mit Hilfe von w3school ein Navbar auf linke seite gestalten. Danach habe ich ausprobiert, eine Schrift aus Google Fonts zu holen, was sehr einfach war. Alles war dort schon vorhanden. Dann habe ich nach Musik gesucht und es hat mir länger gedauert, eine zu finden als sie in HTML einzubauen. Ich habe auch versucht, am bisschen zu Gestalten, hat mir aber nicht geklappt. (66)
+
+
+
 Hilfreiche Link: [How To Create a Blog Layout](https://www.w3schools.com/howto/howto_css_blog_layout.asp)
 
-
-
 ## 21.05.2024
+
+- [ ] Text in der Mitte verdünnen
+
+- [ ] Mit Hilfe von dieser [Link](https://www.w3schools.com/howto/howto_css_blog_layout.asp) Sections gestalten
+
+- [ ] ...Sodass eine Section ein Bild und Text hat
+
+- [ ] Jede Teil mit Text hat ein schwarzes Hintergrund mit geringe Opazität
