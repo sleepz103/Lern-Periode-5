@@ -47,20 +47,32 @@ Heute habe ich viel ausprobiert. Ich habe mir ein Bild von Apfel geholt und dies
 
 - [ ] Drücken auf Titel und oder Bild bringt zu anderen HTML dokument (wichtig für später)
 
-
-
 Heute habe ich mit Hilfe von w3school ein Navbar auf linke seite gestalten. Danach habe ich ausprobiert, eine Schrift aus Google Fonts zu holen, was sehr einfach war. Alles war dort schon vorhanden. Dann habe ich nach Musik gesucht und es hat mir länger gedauert, eine zu finden als sie in HTML einzubauen. Ich habe auch versucht, am bisschen zu Gestalten, hat mir aber nicht geklappt. (66)
-
-
 
 Hilfreiche Link: [How To Create a Blog Layout](https://www.w3schools.com/howto/howto_css_blog_layout.asp)
 
 ## 21.05.2024
 
-- [ ] Text in der Mitte verdünnen
+- [x] Text in der Mitte verdünnen
 
-- [ ] Mit Hilfe von dieser [Link](https://www.w3schools.com/howto/howto_css_blog_layout.asp) Sections gestalten
+- [x] Mit Hilfe von dieser [Link](https://www.w3schools.com/howto/howto_css_blog_layout.asp) Sections gestalten
 
-- [ ] ...Sodass eine Section ein Bild und Text hat
+- [x] ...Sodass eine Section ein Bild und Text hat
 
-- [ ] Jede Teil mit Text hat ein schwarzes Hintergrund mit geringe Opazität
+- [x] Jede Teil mit Text hat ein schwarzes Hintergrund mit geringe Opazität
+
+
+
+Heute habe ich die Sections mit Text in die Mitte verschoben. Auf w3schools habe ich mich informiert, wie man eine Seite gestaltet. Ich habe den Code dort ausprobiert, und konnte somit Text in die Mitte verschieben. 
+
+
+
+## 28.05.2024
+
+- [ ] Ein Navbar auf linke seite gestalten
+
+- [ ] Ein footer addieren
+
+- [ ] Idee für Website für 293 finden
+
+- [ ] Ein layout für diese Website in Paint zeichnen
