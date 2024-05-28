@@ -61,18 +61,28 @@ Hilfreiche Link: [How To Create a Blog Layout](https://www.w3schools.com/howto/h
 
 - [x] Jede Teil mit Text hat ein schwarzes Hintergrund mit geringe Opazität
 
-
-
 Heute habe ich die Sections mit Text in die Mitte verschoben. Auf w3schools habe ich mich informiert, wie man eine Seite gestaltet. Ich habe den Code dort ausprobiert, und konnte somit Text in die Mitte verschieben. 
-
-
 
 ## 28.05.2024
 
-- [ ] Ein Navbar auf linke seite gestalten
+- [x] Ein Navbar auf linke seite gestalten
 
-- [ ] Ein footer addieren
+- [x] Ein footer addieren
 
-- [ ] Idee für Website für 293 finden
+- [x] Idee für Website für 293 finden
 
 - [ ] Ein layout für diese Website in Paint zeichnen
+
+Heute habe ich eine Navigationbereich für meine Website gestaltet. Dann habe ich ein Kuchen gegessen. Danach habe ich ein footer addiert. Gegenende habe ich mir die Anforderungen für den Projekt angeschaut. Ich habe mich entschieden, was ich tun will. Eine Seite mit Fotos, die ich in tollen Orten fotografiert habe. (50)
+
+
+
+## 04.05.2024
+
+- [ ] Ein Navbar nach Anforderungen in Draw.io Zeichnen
+
+- [ ] Ein Footer in Draw.io Zeichnen
+
+- [ ] Inhalt für jede Seite entscheiden
+
+- [ ] Eine Farbpalette finden
