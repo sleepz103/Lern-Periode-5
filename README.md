@@ -79,10 +79,13 @@ Heute habe ich eine Navigationbereich für meine Website gestaltet. Dann habe ic
 
 ## 04.05.2024
 
-- [ ] Ein Navbar nach Anforderungen in Draw.io Zeichnen
-
-- [ ] Ein Footer in Draw.io Zeichnen
-
 - [ ] Inhalt für jede Seite entscheiden
 
-- [ ] Eine Farbpalette finden
+- [ ] Ein Navbar nach Anforderungen in Figma Zeichnen
+
+- [ ]  Mit Hilfe von PRäsentation zu Erwiterte Powershell lernen, wie man bestimmte Werte in powershell ausgibt sortiert
+
+- [ ] Mit Hilfe von Präsentation zu Kontrollstrukturen lernen, wie man Kontrollstrukturen in einen Skript schreibt
+
+
+
