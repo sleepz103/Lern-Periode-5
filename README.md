@@ -79,9 +79,9 @@ Heute habe ich eine Navigationbereich für meine Website gestaltet. Dann habe ic
 
 ## 04.05.2024
 
-- [ ] Inhalt für jede Seite entscheiden
+- [x] Inhalt für jede Seite entscheiden
 
-- [ ] Ein Navbar nach Anforderungen in Figma Zeichnen
+- [x] Ein Navbar nach Anforderungen in Figma Zeichnen
 
 - [ ]  Mit Hilfe von PRäsentation zu Erwiterte Powershell lernen, wie man bestimmte Werte in powershell ausgibt sortiert
 
