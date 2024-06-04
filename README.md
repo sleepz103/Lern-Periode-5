@@ -75,17 +75,26 @@ Heute habe ich die Sections mit Text in die Mitte verschoben. Auf w3schools habe
 
 Heute habe ich eine Navigationbereich für meine Website gestaltet. Dann habe ich ein Kuchen gegessen. Danach habe ich ein footer addiert. Gegenende habe ich mir die Anforderungen für den Projekt angeschaut. Ich habe mich entschieden, was ich tun will. Eine Seite mit Fotos, die ich in tollen Orten fotografiert habe. (50)
 
-
-
-## 04.05.2024
+## 04.06.2024
 
 - [x] Inhalt für jede Seite entscheiden
 
 - [x] Ein Navbar nach Anforderungen in Figma Zeichnen
 
-- [ ]  Mit Hilfe von PRäsentation zu Erwiterte Powershell lernen, wie man bestimmte Werte in powershell ausgibt sortiert
+- [ ] Mit Hilfe von Präsentation zu Erwiterte Powershell lernen, wie man bestimmte Werte in powershell ausgibt sortiert
 
 - [ ] Mit Hilfe von Präsentation zu Kontrollstrukturen lernen, wie man Kontrollstrukturen in einen Skript schreibt
 
 
 
+Heute habe ich Inhalt für die 4 Seiten entschieden. Ich habe mich von andere Blog Seiten inspiriren lassen, und habe für mich die 4 wichtigsten gefunden. Danach in einen Programm Figma konnte ich leicht ein Entwurf erstellen. Ich habe ein Design zu hälfte nachgemacht, und werde diesen noch auf mein Stil verändern. Am ende habe ich mich noch mit Daten Ausgaben in Powershell beschäftigt, doch ist mir aus den Auftrag noch eine Aufgabe übrig geblieben. (75)
+
+## 11.06.2024
+
+- [ ] 1
+
+- [ ] 2
+
+- [ ] 3
+
+- [ ] 4
