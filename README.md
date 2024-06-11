@@ -91,10 +91,10 @@ Heute habe ich Inhalt für die 4 Seiten entschieden. Ich habe mich von andere Bl
 
 ## 11.06.2024
 
-- [ ] 1
+- [ ] Auftrag 1711 - Kontrollstrukturen
 
-- [ ] 2
+- [ ] Auftrag 1712 - ReadWrite
 
-- [ ] 3
+- [ ] Auftrag 1713 - Systemingergration
 
-- [ ] 4
+- [ ] Noch eine neue seite zu design implementieren, sodass nun Anforderung erfüllt
