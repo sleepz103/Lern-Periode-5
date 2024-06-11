@@ -85,16 +85,28 @@ Heute habe ich eine Navigationbereich für meine Website gestaltet. Dann habe ic
 
 - [ ] Mit Hilfe von Präsentation zu Kontrollstrukturen lernen, wie man Kontrollstrukturen in einen Skript schreibt
 
-
-
 Heute habe ich Inhalt für die 4 Seiten entschieden. Ich habe mich von andere Blog Seiten inspiriren lassen, und habe für mich die 4 wichtigsten gefunden. Danach in einen Programm Figma konnte ich leicht ein Entwurf erstellen. Ich habe ein Design zu hälfte nachgemacht, und werde diesen noch auf mein Stil verändern. Am ende habe ich mich noch mit Daten Ausgaben in Powershell beschäftigt, doch ist mir aus den Auftrag noch eine Aufgabe übrig geblieben. (75)
 
 ## 11.06.2024
 
-- [ ] Auftrag 1711 - Kontrollstrukturen
+- [x] Auftrag 1711 - Kontrollstrukturen
 
-- [ ] Auftrag 1712 - ReadWrite
+- [x] Auftrag 1712 - ReadWrite
 
-- [ ] Auftrag 1713 - Systemingergration
+- [x] Auftrag 1713 - Systemintergration
 
 - [ ] Noch eine neue seite zu design implementieren, sodass nun Anforderung erfüllt
+
+Heute wollte ich übrige Aufgaben aus Modul 122 über Powershell nachholen. Ich habe zwei Skripts erstellt, eine für Kontrollstrukturen und eine, die mit Datei arbeitet. Die Schreibweise ist sehr ähnlich zu was wir mit C# gelernt haben, ist also gut gegangen. Danach am meisten interessant war, ein Skript zu intergrieren. Ich habe gestestet und der Skript würde bei Start aufgerufen. Eine neue Seite für Projekt kann ich später erstellen, ist momentan nicht wichtig.(73)
+
+
+
+## 18.06.2024
+
+- [ ] Noch eine neue seite zu design implementieren, sodass nun Anforderung erfüllt
+
+- [ ] Auftrag 7714 - Responsive
+
+- [ ] Auftrag 7712 - FreeHost
+
+- [ ] Auftrag 7713 - Testen
