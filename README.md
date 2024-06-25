@@ -133,8 +133,6 @@ Heute wollte ich übrige Aufgaben aus Modul 122 über Powershell nachholen. Ich 
   
   - [ ] bilderquellen dokumentieren
 
-
-
 Heute habe ich konzetriert für meine Website gearbeitet. Ich habe die Bilder in folder kopiert, und konnte sie dann alle in html referenzieren. Danach habe ich die navbar repariert, sodass man aus allen Seiten auf home kommen kann. Am Ende habe ich mich vorallem mit Dropdown Liste beschäftigt. Ich bin zufrieden, da es schlussendlich funktioniert und zu Website passt. Die Dokumentationen werde ich noch heute am Nachmittag erfüllen.(68)
 
 # Fertiges Projekt
@@ -149,16 +147,13 @@ Und als kleiner interaktiver Teil meiner simplistischen Website gibt es eine sch
 
 ![website feature gif](website_feature.gif)
 
-
 Ein eigenes Repo für diese Website wird noch heute entstehen. Link wird sich hier unten dieser GIF befinden.
 
 Die Reflexionen habe ich in der Zeit nicht geschaft, ich erfülle sie noch am heutigen Nachmittag.
 
 # Reflexion
 
-1.Lesen Sie sich alle Zusammenfassungen der LP5 durch, und denken Sie dabei an Ihren VBV
-
-2.Versuchen Sie nun daraus eine zusammenhängende Geschichte von 50 – 100 Wörtern zu formulieren
+Die Lernperioden habe ich dafür benutzt, um mich für die kommende Projektabgaben vorzubereiten. Da habe ich angefangen, dass ich die Grundlegende Wissen über Webseiten lernen. Noch am Anfang notierte ich mir die Schreibweisen in Obsidian. Mit der Zeit habe ich angefangen, einfachere Arbeitpacketen zu erstellen, um etwas mehr auf einmal zu schaffen. Da ich aber langsamer mit Modulen gewesen bin, stellte ich eher praktische aber ungenaue Arbeitspacketen, um mehr Fähigkeiten in einer Thema zu kriegen. Gegend Ende entscheidete ich, die Lernperioden für Arbeit für die Projekte zuverbrauchen. (87)
 
 # Jahresreflexion
 
