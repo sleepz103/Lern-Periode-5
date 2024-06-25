@@ -145,7 +145,8 @@ Die Website wurde von sich aus vielen anderen minimalistischen Webseiten inspiri
 
 
 
-Website Picture hier
+![website picture png](website picture.png)
+
 
 
 
@@ -153,4 +154,4 @@ Und als kleiner interaktiver Teil meiner simplistischen Website gibt es eine sch
 
 
 
-Website Feature gif hier
+![website feature gif](website feature.gif)
