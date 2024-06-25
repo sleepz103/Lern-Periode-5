@@ -150,6 +150,7 @@ Und als kleiner interaktiver Teil meiner simplistischen Website gibt es eine sch
 ![website feature gif](website_feature.gif)
 
 
+Ein eigenes Repo für diese Website wird noch heute entstehen. Link wird sich hier unten dieser GIF befinden.
 
 Die Reflexionen habe ich in der Zeit nicht geschaft, ich erfülle sie noch am heutigen Nachmittag.
 
