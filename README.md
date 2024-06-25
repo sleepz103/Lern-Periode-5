@@ -99,14 +99,36 @@ Heute habe ich Inhalt für die 4 Seiten entschieden. Ich habe mich von andere Bl
 
 Heute wollte ich übrige Aufgaben aus Modul 122 über Powershell nachholen. Ich habe zwei Skripts erstellt, eine für Kontrollstrukturen und eine, die mit Datei arbeitet. Die Schreibweise ist sehr ähnlich zu was wir mit C# gelernt haben, ist also gut gegangen. Danach am meisten interessant war, ein Skript zu intergrieren. Ich habe gestestet und der Skript würde bei Start aufgerufen. Eine neue Seite für Projekt kann ich später erstellen, ist momentan nicht wichtig.(73)
 
-
-
 ## 18.06.2024
 
-- [ ] Noch eine neue seite zu design implementieren, sodass nun Anforderung erfüllt
+- [x] Noch eine neue seite zu design implementieren, sodass nun Anforderung erfüllt
 
-- [ ] Auftrag 7714 - Responsive
+- [x] Auftrag 7714 - Responsive
 
-- [ ] Auftrag 7712 - FreeHost
+- [x] Auftrag 7712 - FreeHost
 
 - [ ] Auftrag 7713 - Testen
+
+## 25.06.2024
+
+- [ ] Alle seiten für Projekt fertigen
+  
+  - [ ] Seiten beschriften
+  
+  - [ ] Schweiz addieren
+  
+  - [ ] Polen addieren
+  
+  - [ ] alt attribute addieren
+  
+  - [ ] Dropdown Liste on hover in navbar für alle Seiten implementieren
+  
+  - [ ] Handy Variante erstellen
+
+- [ ] paar Dokumentationen
+  
+  - [ ] auf zwei Browser testen und in doku beschreiben
+  
+  - [ ] in doku beschreiben, wie das Mockup (?) umgesetzt wurde
+  
+  - [ ] bilderquellen dokumentieren
