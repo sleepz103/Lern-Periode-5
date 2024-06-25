@@ -115,13 +115,13 @@ Heute wollte ich übrige Aufgaben aus Modul 122 über Powershell nachholen. Ich 
   
   - [ ] Seiten beschriften
   
-  - [ ] Schweiz addieren
+  - [x] Schweiz addieren
   
-  - [ ] Polen addieren
+  - [x] Polen addieren
   
-  - [ ] alt attribute addieren
+  - [x] alt attribute addieren
   
-  - [ ] Dropdown Liste on hover in navbar für alle Seiten implementieren
+  - [x] Dropdown Liste on hover in navbar für alle Seiten implementieren
   
   - [ ] Handy Variante erstellen
 
@@ -132,3 +132,25 @@ Heute wollte ich übrige Aufgaben aus Modul 122 über Powershell nachholen. Ich 
   - [ ] in doku beschreiben, wie das Mockup (?) umgesetzt wurde
   
   - [ ] bilderquellen dokumentieren
+
+
+
+# Fertiges Projekt
+
+Am Anfang dieses Lernperiode habe zuerst ausprobiert, alle mögliche Kentnisse in einer Website zu implementieren. Mit der Zeit habe ich auf eine richtig geplannte Website geweschselt. Und nun jetzt gegen Ende ist diese Website fertig. 
+
+
+
+Die Website wurde von sich aus vielen anderen minimalistischen Webseiten inspiriert. Bei der Gestaltung war es mir wichtig, dass sie so einfach wie möglich zu benutzten bleibt, und dass der Inhalt in das Zentrum ist.
+
+
+
+Website Picture hier
+
+
+
+Und als kleiner interaktiver Teil meiner simplistischen Website gibt es eine schöne Dropdown-Liste, um mit einem schmalen Menü zu mehreren konkreten Teilen zu kommen.
+
+
+
+Website Feature gif hier
