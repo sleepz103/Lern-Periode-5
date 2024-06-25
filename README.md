@@ -135,23 +135,38 @@ Heute wollte ich übrige Aufgaben aus Modul 122 über Powershell nachholen. Ich 
 
 
 
+Heute habe ich konzetriert für meine Website gearbeitet. Ich habe die Bilder in folder kopiert, und konnte sie dann alle in html referenzieren. Danach habe ich die navbar repariert, sodass man aus allen Seiten auf home kommen kann. Am Ende habe ich mich vorallem mit Dropdown Liste beschäftigt. Ich bin zufrieden, da es schlussendlich funktioniert und zu Website passt. Die Dokumentationen werde ich noch heute am Nachmittag erfüllen.(68)
+
 # Fertiges Projekt
 
 Am Anfang dieses Lernperiode habe zuerst ausprobiert, alle mögliche Kentnisse in einer Website zu implementieren. Mit der Zeit habe ich auf eine richtig geplannte Website geweschselt. Und nun jetzt gegen Ende ist diese Website fertig. 
 
-
-
 Die Website wurde von sich aus vielen anderen minimalistischen Webseiten inspiriert. Bei der Gestaltung war es mir wichtig, dass sie so einfach wie möglich zu benutzten bleibt, und dass der Inhalt in das Zentrum ist.
-
-
 
 ![website picture png](website_picture.png)
 
-
-
-
 Und als kleiner interaktiver Teil meiner simplistischen Website gibt es eine schöne Dropdown-Liste, um mit einem schmalen Menü zu mehreren konkreten Teilen zu kommen.
 
-
-
 ![website feature gif](website_feature.gif)
+
+
+
+
+
+# Reflexion
+
+1.Lesen Sie sich alle Zusammenfassungen der LP5 durch, und denken Sie dabei an Ihren VBV
+
+2.Versuchen Sie nun daraus eine zusammenhängende Geschichte von 50 – 100 Wörtern zu formulieren
+
+# Jahresreflexion
+
+1.Was haben Sie konkret gelernt dieses Jahr? (Technisch)
+
+2.Was haben Sie konkret gelernt dieses Jahr? (Arbeitsweise)
+
+3.Wa möchten Sie selber nächstes Jahr anders machen im LA?
+
+4.Was hat Ihnen am LA gefallen?
+
+5.Was würden Sie sich wünschen, das nächstes Jahr im LA anders wäre?
