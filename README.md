@@ -151,7 +151,7 @@ Und als kleiner interaktiver Teil meiner simplistischen Website gibt es eine sch
 
 
 
-
+Die Reflexionen habe ich in der Zeit nicht geschaft, ich erfülle sie noch am heutigen Nachmittag.
 
 # Reflexion
 
